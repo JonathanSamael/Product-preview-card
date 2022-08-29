@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Designer Desktop](./Screenshot/Screenshot-desktop.png.jpg)
-![Designer Mobile](./screenshot/Screenshot-mobile.png.jpg)
+![Designer Desktop](./Screenshot/Screenshot-desktop.png)
+![Designer Mobile](./screenshot/Screenshot-mobile.png)
 
 ### Links
 
