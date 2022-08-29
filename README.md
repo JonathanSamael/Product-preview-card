@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![Designer Desktop](./Screenshot/Screenshot-desktop.png)
-![Designer Mobile](./screenshot/Screenshot-mobile.png)
+![Designer Mobile](./Screenshot/Screenshot-mobile.png)
 
 ### Links
 
