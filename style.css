@@ -70,10 +70,10 @@ section p {
 
 .scratch-price {
     text-decoration: line-through;
-    position: absolute;
+    /* position: absolute;
     right: 6.5%;
     bottom: 22.5%;
-    
+     */
 }
 
 #btn {
@@ -113,7 +113,6 @@ section p {
 @media (max-width: 576px) {
     .white-box {
         margin: auto;
-        max-width: 576px;
         width: 365px;
         height: 630px;
     }
