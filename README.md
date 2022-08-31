@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Designer Desktop](./Screenshot/Screenshot-desktop.png.jpg)
-![Designer Mobile](./screenshot/Screenshot-mobile.png.jpg)
+![Designer Desktop](./Screenshot/Screenshot-desktop.png)
+![Designer Mobile](./Screenshot/Screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/JonathanSamael/Product-preview-card)
+- Live Site URL: [Github-Pages](https://jonathansamael.github.io/Product-preview-card/)
 
 ## My process
 
