@@ -55,23 +55,21 @@ main img {
     line-height: 1.6rem;
 }
 
-section p {
-    margin: 18px 0px;
-    
+section.price {
+    display: flex;
+    align-items: center;
+    margin: 15px 0px;
 }
-.big-price {
+
+.price .big-price {
     font-family: 'Fraunces', serif;
     color: hsl(158, 36%, 37%);
     font-size: 35px;
-    float: left;
     padding-right: 0px;
 }
 
 .price .scratch-price {
     text-decoration: line-through;
-    height: 50px;
-    display: flex;
-    align-items: flex-end;
     
 }
 
@@ -98,7 +96,8 @@ section p {
 
 /* ----------FOOTER--------- */
 .attribution { 
-    font-size: 11px; text-align: center;
+    font-size: 11px; 
+    text-align: center;
     position: absolute;
     bottom: 0;
     left: 50%;
