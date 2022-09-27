@@ -132,16 +132,13 @@ section.price {
         line-height: 1.3rem;
     }
 
-    section p {
-        margin: 8px;
+    section.price {
+        align-items: center;
+        margin-bottom: 5px;
     }
 
     .big-price {
         right: 10px;
-    }
-
-    p.all-text.scratch-price {
-        height: 40px;
     }
 
     #btn {
